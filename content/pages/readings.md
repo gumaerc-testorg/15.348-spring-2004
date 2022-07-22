@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each session
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: dce955ef-3024-96e1-bdbb-cc8e72f8e9fa
 ---
