@@ -33,7 +33,7 @@ READINGS
 Introduction: Course Goals and Logistics
 {{< tdclose >}}
 {{< tdopen >}}
-Peruse the [STATA® Starter Kit](http://www.ats.ucla.edu/stat/stata/sk/), put together by the UCLA Academic Technology Services group.
+Peruse the {{% resource_link "99a01e46-4999-46c3-ac62-eac6361ae69a" "STATA® Starter Kit" %}}, put together by the UCLA Academic Technology Services group.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Principles: Ordinary Least Squares Regression
 
 Fox, John. "Linear Least Squares Regression." In _Applied Regression Analysis, Linear Models, and Related Methods,_ 85-111. Thousand Oaks, CA: Sage, 1997. ISBN: 080394540X.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611404) Kennedy, Peter. "The Classical Linear Regression Model" and "Interval Estimation and Hypothesis Testing." In _A Guide to Econometrics_. 4th ed., pp. 42-72. Cambridge, MA: MIT Press, 1998. ISBN: 9780262611404.
+{{% resource_link "0f275a9d-1199-47cb-aa41-5cc4f89da17e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kennedy, Peter. "The Classical Linear Regression Model" and "Interval Estimation and Hypothesis Testing." In _A Guide to Econometrics_. 4th ed., pp. 42-72. Cambridge, MA: MIT Press, 1998. ISBN: 9780262611404.
 
 Friedrich, Robert J. "In Defense of Multiplicative Terms in Multiple Regression Equations." _American Journal of Political Science_ 26 (1982): 797-833.
 
